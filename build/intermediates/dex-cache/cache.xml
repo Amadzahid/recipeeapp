@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/amadzahid/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_87d80a7927b71b32ead409e0134bca92c5e7b4d8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_bfb11fdc6b67bd028147846f624ad91166ff8975/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_a8152e4c84161fe4dfd0fb62a8a0ac49a57f643a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_9dd348086af6df880569ed91337e1dd6f66ffd0b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="222176fc6759ca54763ab2883c0f647fd3c11893">
+        <dex dex="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0e1d5b247185dbcdcf8944c378710cbfa54a04da/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_05c9a8c400c5b0939f2e3900d3ef4514735928ae/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_0409e3033b18283784f98b376a78fe4731918b3d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_5c030f55faf0155ff890ead88f4e9ce2551b5f63/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_fc92be1b2d79c0b3275d1b085f8e38ab501dcc90/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9aa14be78b9cd1d3ebb5c1af338e853b8dca9332">
+        <dex dex="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bdc8573a5b9f263cbfa2c439176b79fb86bc33ba/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_7671fc257fbdb6aa69495d9fff6229542e1e8900/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_3ae71b75eba9d619bd7c6267afeaf200fb2ac718/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_0c4aa1071e4739d45b5dc296b0c7f1c6a0cbd393/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_bfb70d3d57ab59e5140895a00d070808814a8b01/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_3959644f4d51bc31be94e73ce00bc09f80e2dfe1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_37f41133bf799adf103f582a871784df07e001df/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/amadzahid/AndroidStudioProjects/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_b383650e817fdd681b41c5513f83f9422eca782b/classes.dex" />
+    </item>
+
+</items>

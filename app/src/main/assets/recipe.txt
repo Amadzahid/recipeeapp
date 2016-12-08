@@ -1,0 +1,58 @@
+{
+  "recipe": [
+    {
+      "name": "Fruit & Cheese Salad",
+      "summary": "This health-promoting salad offers you a quick-and-easy way to enjoy the delicious combination of fruit and cheese as part of your Healthiest Way of Eating.",
+      "ingredients": "1\/4 cup green seedless grapes 3 fresh (or dried) apricots, cut into eighths 3 dried figs, sliced medium thick 1\/2 lb mixed salad greens 2 TBS fresh lemon juice salt and cracked black pepper to taste extra virgin olive oil to taste 3 oz goat or gorgonzola cheese optional: 1\/4 lb sliced, precooked turkey breast, cut into bite-size pieces",
+      "description": "In order to better help you identify recipes that feature a high concentration of nutrients for the calories they contain, we created a Recipe Rating System. This system allows us to highlight the recipes that are especially rich in "
+    },
+    {
+      "name": "Black Bean Salad",
+      "summary": "Try this salad recipe that only gets better with time. It is a great one to keep on hand in your refrigerator for a ready-made healthy meal or snack.",
+      "ingredients": "1\/2 cup minced onion 2 medium cloves garlic, pressed 2 cup black beans or 1 15 oz can (without BPA), drained and rinsed 1 cup frozen corn, thawed 8 cherry tomatoes, quartered 1\/2 cup diced red bell pepper 2 TBS pumpkin seeds, coarsely chopped 1\/4 cup chopped fresh cilantro 2 TBS extra virgin olive oil 3 TBS fresh lemon juice salt and black pepper to taste",
+      "description": "In order to better help you identify recipes that feature a high concentration of nutrients for the calories they contain, we created a Recipe Rating System. This system allows us to highlight the recipes that are especially rich in "
+    },
+    {
+      "name": "Greek Garbanzo Bean Salad",
+      "summary": "Rich in protein and dietary fiber, this fresh-tasting salad provides 11% of your Daily Value (DV) for protein and 26% DV for dietary fiber. It only takes minutes to prepare and gets tastier the longer it marinates. Make this quick and easy recipe a regular addition to your Healthiest Way of Eating",
+      "ingredients": "2 cups or 1 15 oz can garbanzo beans (without BPA), drained and rinsed 2\/3 cup minced scallion",
+      "description": "In order to better help you identify recipes that feature a high concentration of nutrients for the calories they contain, we created a Recipe Rating System. This system allows us to highlight the recipes that are especially rich in"
+    },
+    {
+      "name": "Fruit & Cheese Salad",
+      "summary": "This health-promoting salad offers you a quick-and-easy way to enjoy the delicious combination of fruit and cheese as part of your Healthiest Way of Eating.",
+      "ingredients": "1\/4 cup green seedless grapes 3 fresh (or dried) apricots, cut into eighths 3 dried figs, sliced medium thick 1\/2 lb mixed salad greens 2 TBS fresh lemon juice salt and cracked black pepper to taste extra virgin olive oil to taste 3 oz goat or gorgonzola cheese optional: 1\/4 lb sliced, precooked turkey breast, cut into bite-size pieces",
+      "description": "In order to better help you identify recipes that feature a high concentration of nutrients for the calories they contain, we created a Recipe Rating System. This system allows us to highlight the recipes that are especially rich in "
+    },
+    {
+      "name": "Black Bean Salad",
+      "summary": "Try this salad recipe that only gets better with time. It is a great one to keep on hand in your refrigerator for a ready-made healthy meal or snack.",
+      "ingredients": "1\/2 cup minced onion 2 medium cloves garlic, pressed 2 cup black beans or 1 15 oz can (without BPA), drained and rinsed 1 cup frozen corn, thawed 8 cherry tomatoes, quartered 1\/2 cup diced red bell pepper 2 TBS pumpkin seeds, coarsely chopped 1\/4 cup chopped fresh cilantro 2 TBS extra virgin olive oil 3 TBS fresh lemon juice salt and black pepper to taste",
+      "description": "In order to better help you identify recipes that feature a high concentration of nutrients for the calories they contain, we created a Recipe Rating System. This system allows us to highlight the recipes that are especially rich in "
+    },
+    {
+      "name": "Crispy Turkey Salad",
+      "summary": "Rich in protein and dietary fiber, this fresh-tasting salad provides 11% of your Daily Value (DV) for protein and 26% DV for dietary fiber. It only takes minutes to prepare and gets tastier the longer it marinates. Make this quick and easy recipe a regular addition to your Healthiest Way of Eating",
+      "ingredients": "2 cups or 1 15 oz can garbanzo beans (without BPA), drained and rinsed 2\/3 cup minced scallion",
+      "description": "In order to better help you identify recipes that feature a high concentration of nutrients for the calories they contain, we created a Recipe Rating System. This system allows us to highlight the recipes that are especially rich in"
+    },
+    {
+      "name": "Chinese Chicken Cabbage Salad",
+      "summary": "This health-promoting salad offers you a quick-and-easy way to enjoy the delicious combination of fruit and cheese as part of your Healthiest Way of Eating.",
+      "ingredients": "1\/4 cup green seedless grapes 3 fresh (or dried) apricots,\\n cut into eighths 3 dried figs, \\n sliced medium thick 1\/2 lb mixed salad greens\\n 2 TBS fresh lemon juice salt\\n and cracked black pepper to taste extra virgin olive oil to taste 3 oz goat or gorgonzola cheese optional: 1\/4 lb sliced,\\n precooked turkey breast, cut into bite-size pieces",
+      "description": "In order to better help you identify recipes that feature a high concentration of nutrients for the calories they contain, we created a Recipe Rating System. This system allows us to highlight the recipes that are especially rich in"
+    },
+    {
+      "name": "Broiled Salmon Salad",
+      "summary": "Try this salad recipe that only gets better with time. It is a great one to keep on hand in your refrigerator for a ready-made healthy meal or snack.",
+      "ingredients": "1\/2 cup minced onion 2 medium cloves garlic, pressed 2 cup black beans or 1 15 oz can (without BPA), drained and rinsed 1 cup frozen corn, thawed 8 cherry tomatoes, quartered 1\/2 cup diced red bell pepper 2 TBS pumpkin seeds, coarsely chopped 1\/4 cup chopped fresh cilantro 2 TBS extra virgin olive oil 3 TBS fresh lemon juice salt and black pepper to taste",
+      "description": "In order to better help you identify recipes that feature a high concentration of nutrients for the calories they contain, we created a Recipe Rating System. This system allows us to highlight the recipes that are especially rich in "
+    },
+    {
+      "name": "Arugula Salad with Walnut Croutons",
+      "summary": "Rich in protein and dietary fiber, this fresh-tasting salad provides 11% of your Daily Value (DV) for protein and 26% DV for dietary fiber. It only takes minutes to prepare and gets tastier the longer it marinates. Make this quick and easy recipe a regular addition to your Healthiest Way of Eating",
+      "ingredients": "2 cups or 1 15 oz can garbanzo beans (without BPA), drained and rinsed 2\/3 cup minced scallion",
+      "description": "In order to better help you identify recipes that feature a high concentration of nutrients for the calories they contain, we created a Recipe Rating System. This system allows us to highlight the recipes that are especially rich in"
+    }
+  ]
+}

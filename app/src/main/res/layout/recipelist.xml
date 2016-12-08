@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+            <ImageView
+                android:id="@+id/recipeImageView"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/menu_bg" />
+
+            <TextView
+                android:id="@+id/recipeTextSummary"
+                android:layout_width="fill_parent"
+                android:layout_height="100dp"
+                android:layout_marginLeft="16dp"
+                android:gravity="center_vertical"
+                android:text="Title Goes Here."
+                android:textColor="@color/Black" />
+        </LinearLayout>

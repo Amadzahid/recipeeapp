@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+    android:fillViewport="false" android:background="@color/Black">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:layout_marginBottom="10dp"
+        android:background="@color/FireBrick">
+        <ImageView
+            android:id="@+id/recipeImageView"
+            android:layout_width="fill_parent"
+            android:layout_height="200dp"
+            android:layout_marginBottom="10dp"
+            android:src="@drawable/menu_bg" />
+        <ImageView
+            android:id="@+id/add_fav"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/heart_white"/>
+    </RelativeLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/FireBrick"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/recipeTextTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="8dp"
+            android:text="Recipe Title Here"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:textColor="@color/White"/>
+
+        <TextView
+            android:id="@+id/recipeTextSummary"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:text="Take 1 tea spoon Sugar with a cup of water then put it into a jar and then mix it."
+            android:textColor="@color/White" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/FireBrick"
+        android:weightSum="2">
+        <Button
+            android:id="@+id/ingredientsbtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Ingredients"
+            android:background="@color/Black"
+            android:textColor="@color/White"/>
+
+        <Button
+            android:id="@+id/descriptionbtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/Black"
+            android:text="Description"
+            android:textColor="@color/White"
+            />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textview"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:textColor="@color/White"
+        android:text="Hbshbxhs ah cahsbxhabshxbhas xas hxbhasbhx hsax has xh \n bashxbabsx \n ysgxysgy \n"
+        />
+</LinearLayout>
+
+</ScrollView>
